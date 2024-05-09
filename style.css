@@ -1,0 +1,22 @@
+.news-block ul {
+    padding-right: 40px;
+}
+
+.news-block ul li {
+    list-style-type: none;
+    border-bottom: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.news-block {
+    border: 1px solid black;
+    width: 40%;
+}
+
+.headline {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+}
